@@ -17,7 +17,7 @@ Installation
 Step-by-step instructions to get the development environment set up.
 
 Clone the repository:-
-git clone https://github.com/yourusername/yourprojectname.git
+git clone https://github.com/Ankitkumar445/C-Language.git
 cd yourprojectname
 
 Compile the code:-
